@@ -10,3 +10,6 @@
 [submodule "AirTicketBookingService"]
 	path = AirTicketBookingService
 	url = https://github.com/Raze100/AirTicketBookingService
+[submodule "ReminderService"]
+	path = ReminderService
+	url = https://github.com/Raze100/ReminderService
