@@ -7,3 +7,6 @@
 [submodule "Auth_Service"]
 	path = Auth_Service
 	url = https://github.com/Raze100/Auth_Service
+[submodule "AirTicketBookingService"]
+	path = AirTicketBookingService
+	url = https://github.com/Raze100/AirTicketBookingService
