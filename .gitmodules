@@ -1,3 +1,6 @@
 [submodule "Airline_API_Gateway"]
 	path = Airline_API_Gateway
 	url = https://github.com/Raze100/Airline_API_Gateway
+[submodule "FlightsAndSearchService"]
+	path = FlightsAndSearchService
+	url = https://github.com/Raze100/FlightsAndSearchService
